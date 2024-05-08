@@ -30,3 +30,14 @@ my_survRM2.R, paper_simulation_source2.R
 ```
 Other source codes
 ```
+
+# 2. Numerical Example
+numerical example.R
+```
+Code for numerical example
+```
+
+source_numerical example.R, source_stat_numerical example.R
+```
+Numerical example source code
+```
