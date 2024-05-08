@@ -1,5 +1,3 @@
-setwd("C:/Users/kh328/Box/Kaiyuan Hua PhD Dissertation/Topic 1/codes/DCC2")
-setwd("/Users/HuaKimi/Library/CloudStorage/Box-Box/Kaiyuan Hua PhD Dissertation/Topic 1/codes/DCC2")
 library(writexl)
 
 
